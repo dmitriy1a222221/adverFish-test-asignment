@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'ArialBlack';
+    src: url('../fonts/arialBlack/ArialBlack.eot');
+    src: url('../fonts/arialBlack/ArialBlack.eot') format('embedded-opentype'),
+    url('../fonts/arialBlack/ArialBlack.woff2') format('woff2'),
+    url('../fonts/arialBlack/ArialBlack.woff') format('woff'),
+    url('../fonts/arialBlack/ArialBlack.ttf') format('truetype')
+}
+
+@font-face {
+    font-family: 'ArialBold';
+    src: url('../fonts/arialBold/ArialBold.eot');
+    src: url('../fonts/arialBold/ArialBold.eot') format('embedded-opentype'),
+    url('../fonts/arialBold/Arial-BoldMT.woff2') format('woff2'),
+    url('../fonts/arialBold/Arial-BoldMT.woff') format('woff'),
+    url('../fonts/arialBold/ArialBold.ttf') format('truetype')
+}
